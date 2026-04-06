@@ -2,7 +2,8 @@
 
 ## 🖥️ Output
 Calculator  developed it in c#
-<img width="260" height="411" alt="image" src="https://github.com/user-attachments/assets/a6fd155f-0add-4395-ae30-af18eca3b63d" />
+                            <img width="489" height="710" alt="image" src="https://github.com/user-attachments/assets/26ff1f3b-980d-4855-ba3b-f7caf7fa1aa4" />
+
 
 # 🧮 Calculator WinForms (.NET)
 
